@@ -2,11 +2,11 @@
 
 ### Project Overview
 
-The project's objective is to provide insights on the number of bike riders and how much time they spent riding over the last quarter of 2023. By analyzing some KPIs from the dataset, we look to identify any trends, make data-driven recommendations, and hopefully gauge on the company's performance.
+This project's objective is to provide insights on the number of bike riders and how much time they spent riding over the last quarter of 2023. By analyzing some KPIs from the dataset, we look to identify any trends, make data-driven recommendations, and hopefully gauge on the company's performance.
 
 ### About the Data
 
-The primary dataset can be found from <https://bluebikes.com/system-data>. The months of October, November, and December, respectively, has been downloaded and combined into a single file. "q4_2023_bike_editted.csv"
+The primary dataset can be found on <https://bluebikes.com/system-data>. The months of October, November, and December, respectively, were downloaded and combined into a single file. "q4_2023_bike_editted.csv"
 
 ### Tools Used
 
@@ -14,7 +14,7 @@ The primary dataset can be found from <https://bluebikes.com/system-data>. The m
 - MSSQL - Data Cleaning & Data Analysis
 - Tableau - Data Visualization
 
-### Data Cleaning/Preparatin
+### Data Cleaning/Preparation
 
 1. Data loading and Joining
 2. Data Cleaning and Sorting
@@ -22,7 +22,7 @@ The primary dataset can be found from <https://bluebikes.com/system-data>. The m
 
 ### Exploratory Data Analysis (EDA)
 
-EDA was performed to answer key questions, such as, but not limited to :
+EDA was performed to answer key questions, such as, but not limited to:
 
 1. How many total riders?
 2. Where do riders start their bike rides?
@@ -44,7 +44,7 @@ EDA was performed to answer key questions, such as, but not limited to :
 Based on the analysis, we recommend the following actions:
 
 - Implement a seasonal or yearly subscription, or a cheaper monthly price range to entice more customers to becoming members.
-- Increase the number of bikes and/or docking stations at the most popular stations to attract even more riders.
+- Increase the number of bikes and/or docking stations at the more popular stations to attract even more riders.
 
 ### Complimentary Visualization
 
