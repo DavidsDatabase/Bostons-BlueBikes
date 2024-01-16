@@ -11,7 +11,7 @@ The primary dataset can be found on <https://bluebikes.com/system-data>. The mon
 ### Tools Used
 
 - Excel - Data Cleaning
-- MSSQL - Data Cleaning & Data Analysis
+- SQL - Data Cleaning & Data Analysis
 - Tableau - Data Visualization
 
 ### Data Cleaning/Preparation
