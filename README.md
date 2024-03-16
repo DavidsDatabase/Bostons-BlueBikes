@@ -34,10 +34,10 @@ EDA was performed to answer key questions, such as, but not limited to:
 ### Results/Findings
 
 1. Riders seem to have a decline as the year progressed. This could be because of the weather. Extreme cold temperatures could defer riders from traveling by bikes.
-2. The popular starting AND ending stations were MIT at Mass Ave / Amherst St, Central Square at Mass Ave / Essex St, and Harvard Square at Mass Ave/ Dunster, to name a few. This could mean there is an increase in traveling frequency in these areas, hence the influx of bike rides from these respective locations.
-3. Out of 876063 total riders, 674453 were subscribed members, which is around 77%.
-4. Tuesday was found to have the most riders throughout the whole last quarter of 2023.
-5. Riders spent on average, 10 minutes, on their bikes.
+2&3. The popular starting AND ending stations were MIT at Mass Ave / Amherst St, Central Square at Mass Ave / Essex St, and Harvard Square at Mass Ave/ Dunster, to name a few. This could mean there is an increase in traveling frequency in these areas, hence the influx of bike rides from these respective locations.
+4. Out of 876063 total riders, 674453 were subscribed members, which is around 77%.
+5. Tuesday was found to have the most riders throughout the whole last quarter of 2023.
+6. Riders spent on average, 10 minutes, on their bikes.
 
 ### Recommendations
 
